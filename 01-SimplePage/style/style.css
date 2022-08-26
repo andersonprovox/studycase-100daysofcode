@@ -3,12 +3,23 @@ body {
     text-align: center;
     background-color: rgb(233, 215, 207);
     margin: 50px;
-}
-
-.main-text {
     font-family: 'Fira Sans', sans-serif;
     text-align: center;
     color: rgb(83, 75, 75);
+}
+
+ul {
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+}
+
+li {
+    padding: 16px;
+    margin: 32px;
+    background-color: chocolate;
+    border-radius: 6px;
 }
 
 a {
